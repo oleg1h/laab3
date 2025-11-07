@@ -21,7 +21,6 @@
   <Using Include="Xunit" />
   </ItemGroup>
 
-
   <ItemGroup>
     <ProjectReference Include="..\MyTeamCityProject.csproj" />
   </ItemGroup>
