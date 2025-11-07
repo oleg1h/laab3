@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NcRj0U32Iik=",
+  "dgSpecHash": "+p4r/SpNnlI=",
   "success": true,
   "projectFilePath": "C:\\Users\\Олег\\MyTeamCityProject\\MyTeamCityProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
